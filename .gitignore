@@ -1,0 +1,14 @@
+.idea/
+build/
+logs/
+jars/
+saves/
+out/
+javadoc/
+config/
+test_*.xml
+*.plantuml
+~$*
+rectangle_lab2.iml
+src.7z
+src.zip
